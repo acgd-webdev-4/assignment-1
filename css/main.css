@@ -19,12 +19,11 @@ h2 {
   font-family: 'PT Serif', serif;
 }
 
-.grid {
-  padding-left: 20em;
-  padding-top: 5em;
+h5 {
+  font-family: 'PT Sans', sans-serif;
+  color: #FF885C;
 }
 
 .logo-size {
-  max-height: 10em;
   max-width: 10em;
 }
