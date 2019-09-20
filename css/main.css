@@ -27,3 +27,7 @@ h5 {
 .logo-size {
   max-width: 10em;
 }
+
+.icon-big {
+  max-width: 4px;
+}
